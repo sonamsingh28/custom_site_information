@@ -1,0 +1,5 @@
+name: Custom Site Information
+type: module
+description: 'Alters Site Information.'
+core: 8.x
+package: Custom
